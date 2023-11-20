@@ -1,0 +1,7 @@
+com\mycompany\login\connection\MySqlDbConnection.class
+com\mycompany\login\user\repository\UserRepository.class
+com\mycompany\pages\resources\JakartaEE8Resource.class
+com\mycompany\login\user\repository\IUserRepository.class
+com\mycompany\login\servlet\LoginServlet.class
+com\mycompany\login\user\model\UserEntity.class
+com\mycompany\pages\JakartaRestConfiguration.class
